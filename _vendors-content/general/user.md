@@ -1,4 +1,4 @@
----
+Premium---
 manufacturer:
     - general
 ---
